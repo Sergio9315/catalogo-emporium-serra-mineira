@@ -2,7 +2,7 @@
 const produtos = [
   {
     "id": 1,
-    "image": "assets/img/produto_001.jpg",
+    "image": "produto_001.jpg",
     "name": "Nhoque Pizza - 1kg",
     "price": "R$ 30,00",
     "unit": "unidade",
@@ -10,7 +10,7 @@ const produtos = [
   },
   {
     "id": 2,
-    "image": "assets/img/produto_002.jpg",
+    "image": "produto_002.jpg",
     "name": "Nhoque 4 Queijos - 1kg",
     "price": "R$ 32,00",
     "unit": "unidade",
@@ -18,7 +18,7 @@ const produtos = [
   },
   {
     "id": 3,
-    "image": "assets/img/produto_003.jpg",
+    "image": "produto_003.jpg",
     "name": "Nhoque Requeijão - 1kg",
     "price": "R$ 32,00",
     "unit": "unidade",
@@ -26,7 +26,7 @@ const produtos = [
   },
   {
     "id": 4,
-    "image": "assets/img/produto_004.jpg",
+    "image": "produto_004.jpg",
     "name": "Nhoque Queijo - 1kg",
     "price": "R$ 32,00",
     "unit": "unidade",
@@ -34,7 +34,7 @@ const produtos = [
   },
   {
     "id": 5,
-    "image": "assets/img/produto_005.jpg",
+    "image": "produto_005.jpg",
     "name": "Nhoque Carne Seca - 1kg",
     "price": "R$ 32,00",
     "unit": "unidade",
@@ -42,7 +42,7 @@ const produtos = [
   },
   {
     "id": 6,
-    "image": "assets/img/produto_006.jpg",
+    "image": "produto_006.jpg",
     "name": "Nhoque Costela - 1kg",
     "price": "R$ 32,00",
     "unit": "unidade",
@@ -50,7 +50,7 @@ const produtos = [
   },
   {
     "id": 7,
-    "image": "assets/img/produto_007.jpg",
+    "image": "produto_007.jpg",
     "name": "Chipa com Parmesão - 1kg",
     "price": "R$ 33,00",
     "unit": "unidade",
@@ -58,7 +58,7 @@ const produtos = [
   },
   {
     "id": 8,
-    "image": "assets/img/produto_008.jpg",
+    "image": "produto_008.jpg",
     "name": "Nhoque Calabresa com Queijo - 1Kg - 1kg",
     "price": "R$ 32,00",
     "unit": "unidade",
@@ -66,7 +66,7 @@ const produtos = [
   },
   {
     "id": 9,
-    "image": "assets/img/produto_009.jpg",
+    "image": "produto_009.jpg",
     "name": "Queijo Canastra",
     "price": "R$ 65,60",
     "unit": "Kg",
@@ -74,7 +74,7 @@ const produtos = [
   },
   {
     "id": 10,
-    "image": "assets/img/produto_010.jpg",
+    "image": "produto_010.jpg",
     "name": "Pão de Queijo - 1kg",
     "price": "R$ ~30,00",
     "unit": "unidade",
@@ -82,7 +82,7 @@ const produtos = [
   },
   {
     "id": 11,
-    "image": "assets/img/produto_011.jpg",
+    "image": "produto_011.jpg",
     "name": "Queijo Meia Cura Canastra",
     "price": "R$ 65,60",
     "unit": "Kg",
@@ -90,7 +90,7 @@ const produtos = [
   },
   {
     "id": 12,
-    "image": "assets/img/produto_012.jpg",
+    "image": "produto_012.jpg",
     "name": "Picanha Suina com Parmesão",
     "price": "R$ 40,00",
     "unit": "unidade",
@@ -98,7 +98,7 @@ const produtos = [
   },
   {
     "id": 13,
-    "image": "assets/img/produto_013.jpg",
+    "image": "produto_013.jpg",
     "name": "Kit Provolone",
     "price": "R$ 23,00",
     "unit": "unidade",
@@ -106,7 +106,7 @@ const produtos = [
   },
   {
     "id": 14,
-    "image": "assets/img/produto_014.jpg",
+    "image": "produto_014.jpg",
     "name": "Queijo Padrão com Alho Poró",
     "price": "R$ 30,00",
     "unit": "unidade",
@@ -114,7 +114,7 @@ const produtos = [
   },
   {
     "id": 15,
-    "image": "assets/img/produto_015.jpg",
+    "image": "produto_015.jpg",
     "name": "Queijo Padrão com Tomate Seco",
     "price": "R$ 30,00",
     "unit": "unidade",
@@ -122,7 +122,7 @@ const produtos = [
   },
   {
     "id": 16,
-    "image": "assets/img/produto_016.jpg",
+    "image": "produto_016.jpg",
     "name": "Queijo Meia Cura Canastra",
     "price": "R$ 65,60",
     "unit": "Kg",
@@ -130,7 +130,7 @@ const produtos = [
   },
   {
     "id": 17,
-    "image": "assets/img/produto_017.jpg",
+    "image": "produto_017.jpg",
     "name": "Queijo Meia Cura Chavinho",
     "price": "R$ 30,00",
     "unit": "unidade",
@@ -138,7 +138,7 @@ const produtos = [
   },
   {
     "id": 18,
-    "image": "assets/img/produto_018.jpg",
+    "image": "produto_018.jpg",
     "name": "Queijo Parmesão Canastra",
     "price": "R$ 38,00",
     "unit": "unidade",
@@ -146,7 +146,7 @@ const produtos = [
   },
   {
     "id": 19,
-    "image": "assets/img/produto_019.jpg",
+    "image": "produto_019.jpg",
     "name": "Kit Parmesão Matuto",
     "price": "R$ 35,00",
     "unit": "unidade",
@@ -154,7 +154,7 @@ const produtos = [
   },
   {
     "id": 20,
-    "image": "assets/img/produto_020.jpg",
+    "image": "produto_020.jpg",
     "name": "Kit 4 Queijo Canastra",
     "price": "R$ 38,00",
     "unit": "unidade",
@@ -162,7 +162,7 @@ const produtos = [
   },
   {
     "id": 21,
-    "image": "assets/img/produto_021.jpg",
+    "image": "produto_021.jpg",
     "name": "Queijo Parmesão Capa Preta Canastra",
     "price": "R$ 39,00",
     "unit": "unidade",
@@ -170,7 +170,7 @@ const produtos = [
   },
   {
     "id": 22,
-    "image": "assets/img/produto_022.jpg",
+    "image": "produto_022.jpg",
     "name": "Queijo Padrão Chavinho",
     "price": "R$ 0,00",
     "unit": "unidade",
@@ -178,7 +178,7 @@ const produtos = [
   },
   {
     "id": 23,
-    "image": "assets/img/produto_023.jpg",
+    "image": "produto_023.jpg",
     "name": "Queijo Trufado com Requeijão",
     "price": "R$ 36,00",
     "unit": "unidade",
@@ -186,7 +186,7 @@ const produtos = [
   },
   {
     "id": 24,
-    "image": "assets/img/produto_024.jpg",
+    "image": "produto_024.jpg",
     "name": "Queijo Trufado com Requeijão",
     "price": "R$ 36,00",
     "unit": "unidade",
@@ -194,7 +194,7 @@ const produtos = [
   },
   {
     "id": 25,
-    "image": "assets/img/produto_025.jpg",
+    "image": "produto_025.jpg",
     "name": "Palito Diversos Canastra",
     "price": "R$ 22,00",
     "unit": "unidade",
@@ -202,7 +202,7 @@ const produtos = [
   },
   {
     "id": 26,
-    "image": "assets/img/produto_026.jpg",
+    "image": "produto_026.jpg",
     "name": "Palito sem Tempero",
     "price": "R$ 16,00",
     "unit": "unidade",
@@ -210,7 +210,7 @@ const produtos = [
   },
   {
     "id": 27,
-    "image": "assets/img/produto_027.jpg",
+    "image": "produto_027.jpg",
     "name": "Queijo Napolitan",
     "price": "R$ 30,00",
     "unit": "unidade",
@@ -218,7 +218,7 @@ const produtos = [
   },
   {
     "id": 28,
-    "image": "assets/img/produto_028.jpg",
+    "image": "produto_028.jpg",
     "name": "Queijo Frescal",
     "price": "R$ 26,50",
     "unit": "unidade",
@@ -226,7 +226,7 @@ const produtos = [
   },
   {
     "id": 29,
-    "image": "assets/img/produto_029.jpg",
+    "image": "produto_029.jpg",
     "name": "Queijo Padrão",
     "price": "R$ 0,00",
     "unit": "unidade",
@@ -234,7 +234,7 @@ const produtos = [
   },
   {
     "id": 30,
-    "image": "assets/img/produto_030.jpg",
+    "image": "produto_030.jpg",
     "name": "Requeijão Cremoso 400g",
     "price": "R$ 18,50",
     "unit": "unidade",
@@ -242,7 +242,7 @@ const produtos = [
   },
   {
     "id": 31,
-    "image": "assets/img/produto_031.jpg",
+    "image": "produto_031.jpg",
     "name": "Manteiga Pura - 200g",
     "price": "R$ 12,00",
     "unit": "unidade",
@@ -250,7 +250,7 @@ const produtos = [
   },
   {
     "id": 32,
-    "image": "assets/img/produto_032.jpg",
+    "image": "produto_032.jpg",
     "name": "Requeijão do Norte",
     "price": "R$ 32,00",
     "unit": "unidade",
@@ -258,7 +258,7 @@ const produtos = [
   },
   {
     "id": 33,
-    "image": "assets/img/produto_033.jpg",
+    "image": "produto_033.jpg",
     "name": "Queijo Meia Cura",
     "price": "R$ 30,00",
     "unit": "unidade",
@@ -266,7 +266,7 @@ const produtos = [
   },
   {
     "id": 34,
-    "image": "assets/img/produto_034.jpg",
+    "image": "produto_034.jpg",
     "name": "Trança de Mussarela com Tempero",
     "price": "R$ 35,00",
     "unit": "unidade",
@@ -274,7 +274,7 @@ const produtos = [
   },
   {
     "id": 35,
-    "image": "assets/img/produto_035.jpg",
+    "image": "produto_035.jpg",
     "name": "Queijo Coalho em Barra",
     "price": "R$ 30,00",
     "unit": "unidade",
@@ -282,7 +282,7 @@ const produtos = [
   },
   {
     "id": 36,
-    "image": "assets/img/produto_036.jpg",
+    "image": "produto_036.jpg",
     "name": "Queijo Zero Lactose",
     "price": "R$ 37,00",
     "unit": "unidade",
@@ -290,7 +290,7 @@ const produtos = [
   },
   {
     "id": 37,
-    "image": "assets/img/produto_037.jpg",
+    "image": "produto_037.jpg",
     "name": "Paçoca Caseira",
     "price": "R$ 6,00",
     "unit": "unidade",
@@ -298,7 +298,7 @@ const produtos = [
   },
   {
     "id": 38,
-    "image": "assets/img/produto_038.jpg",
+    "image": "produto_038.jpg",
     "name": "carro de Boi em Madeira para Bebida",
     "price": "R$ 28,00",
     "unit": "unidade",
@@ -306,7 +306,7 @@ const produtos = [
   },
   {
     "id": 39,
-    "image": "assets/img/produto_039.jpg",
+    "image": "produto_039.jpg",
     "name": "Pingometro",
     "price": "R$ 50,00",
     "unit": "unidade",
@@ -314,7 +314,7 @@ const produtos = [
   },
   {
     "id": 40,
-    "image": "assets/img/produto_040.jpg",
+    "image": "produto_040.jpg",
     "name": "Trança de Mussarela sem Tempero",
     "price": "R$ 35,00",
     "unit": "unidade",
@@ -322,7 +322,7 @@ const produtos = [
   },
   {
     "id": 41,
-    "image": "assets/img/produto_041.jpg",
+    "image": "produto_041.jpg",
     "name": "Barril de Parede",
     "price": "R$ 62,00",
     "unit": "unidade",
@@ -330,7 +330,7 @@ const produtos = [
   },
   {
     "id": 42,
-    "image": "assets/img/produto_042.jpg",
+    "image": "produto_042.jpg",
     "name": "Licor Doce de leite",
     "price": "R$ 36,00",
     "unit": "unidade",
@@ -338,7 +338,7 @@ const produtos = [
   },
   {
     "id": 43,
-    "image": "assets/img/produto_043.jpg",
+    "image": "produto_043.jpg",
     "name": "Licor Marrrula",
     "price": "R$ 36,00",
     "unit": "unidade",
@@ -346,7 +346,7 @@ const produtos = [
   },
   {
     "id": 44,
-    "image": "assets/img/produto_044.jpg",
+    "image": "produto_044.jpg",
     "name": "Licor Milho Verde",
     "price": "R$ 36,00",
     "unit": "unidade",
@@ -354,7 +354,7 @@ const produtos = [
   },
   {
     "id": 45,
-    "image": "assets/img/produto_045.jpg",
+    "image": "produto_045.jpg",
     "name": "Licor Cachaça",
     "price": "R$ 32,00",
     "unit": "unidade",
@@ -362,7 +362,7 @@ const produtos = [
   },
   {
     "id": 46,
-    "image": "assets/img/produto_046.jpg",
+    "image": "produto_046.jpg",
     "name": "Pingometro",
     "price": "R$ 50,00",
     "unit": "unidade",
@@ -370,7 +370,7 @@ const produtos = [
   },
   {
     "id": 47,
-    "image": "assets/img/produto_047.jpg",
+    "image": "produto_047.jpg",
     "name": "Cachaça Du-Chico Amburana",
     "price": "R$ 40,00",
     "unit": "unidade",
@@ -378,7 +378,7 @@ const produtos = [
   },
   {
     "id": 48,
-    "image": "assets/img/produto_048.jpg",
+    "image": "produto_048.jpg",
     "name": "Gim Bliss",
     "price": "R$ 65,00",
     "unit": "unidade",
@@ -386,7 +386,7 @@ const produtos = [
   },
   {
     "id": 49,
-    "image": "assets/img/produto_049.jpg",
+    "image": "produto_049.jpg",
     "name": "Drink Red",
     "price": "R$ 35,00",
     "unit": "unidade",
@@ -394,7 +394,7 @@ const produtos = [
   },
   {
     "id": 50,
-    "image": "assets/img/produto_050.jpg",
+    "image": "produto_050.jpg",
     "name": "Licor de Cachaça",
     "price": "R$ 42,00",
     "unit": "unidade",
@@ -402,7 +402,7 @@ const produtos = [
   },
   {
     "id": 51,
-    "image": "assets/img/produto_051.jpg",
+    "image": "produto_051.jpg",
     "name": "Cachaça Pura Golin de Minas",
     "price": "R$ 36,00",
     "unit": "unidade",
@@ -410,7 +410,7 @@ const produtos = [
   },
   {
     "id": 52,
-    "image": "assets/img/produto_052.jpg",
+    "image": "produto_052.jpg",
     "name": "Cachaça 3 Madeira Proza Mineira",
     "price": "R$ 160,00",
     "unit": "unidade",
@@ -418,7 +418,7 @@ const produtos = [
   },
   {
     "id": 53,
-    "image": "assets/img/produto_053.jpg",
+    "image": "produto_053.jpg",
     "name": "Cachaça Pura Du-Chico",
     "price": "R$ 40,00",
     "unit": "unidade",
@@ -426,7 +426,7 @@ const produtos = [
   },
   {
     "id": 54,
-    "image": "assets/img/produto_054.jpg",
+    "image": "produto_054.jpg",
     "name": "Cachaça Pura 3 Lagos",
     "price": "R$ 36,00",
     "unit": "unidade",
@@ -434,7 +434,7 @@ const produtos = [
   },
   {
     "id": 55,
-    "image": "assets/img/produto_055.jpg",
+    "image": "produto_055.jpg",
     "name": "Vinho Tempranillo Rpsé Seco - Quinta Morães",
     "price": "R$ 40,00",
     "unit": "unidade",
@@ -442,7 +442,7 @@ const produtos = [
   },
   {
     "id": 56,
-    "image": "assets/img/produto_056.jpg",
+    "image": "produto_056.jpg",
     "name": "Vinho Merlot - Quinta Morães",
     "price": "R$ 50,00",
     "unit": "unidade",
@@ -450,7 +450,7 @@ const produtos = [
   },
   {
     "id": 57,
-    "image": "assets/img/produto_057.jpg",
+    "image": "produto_057.jpg",
     "name": "Vinho Cabernet Sauvignon - Quinta Morães",
     "price": "R$ 50,00",
     "unit": "unidade",
@@ -458,7 +458,7 @@ const produtos = [
   },
   {
     "id": 58,
-    "image": "assets/img/produto_058.jpg",
+    "image": "produto_058.jpg",
     "name": "Vinho Seco Tinto - Quinta Morães",
     "price": "R$ 27,00",
     "unit": "unidade",
@@ -466,7 +466,7 @@ const produtos = [
   },
   {
     "id": 59,
-    "image": "assets/img/produto_059.jpg",
+    "image": "produto_059.jpg",
     "name": "Vinho Demi Seco Tinto - Quinta Morães",
     "price": "R$ 27,00",
     "unit": "unidade",
@@ -474,7 +474,7 @@ const produtos = [
   },
   {
     "id": 60,
-    "image": "assets/img/produto_060.jpg",
+    "image": "produto_060.jpg",
     "name": "Cachaça Pura Salinas",
     "price": "R$ 36,00",
     "unit": "unidade",
@@ -482,7 +482,7 @@ const produtos = [
   },
   {
     "id": 61,
-    "image": "assets/img/produto_061.jpg",
+    "image": "produto_061.jpg",
     "name": "Chopp e Vinho",
     "price": "R$ 20,00",
     "unit": "unidade",
@@ -490,7 +490,7 @@ const produtos = [
   },
   {
     "id": 62,
-    "image": "assets/img/produto_062.jpg",
+    "image": "produto_062.jpg",
     "name": "Cooler de Morango - Xv de Novembro",
     "price": "R$ 22,00",
     "unit": "unidade",
@@ -498,7 +498,7 @@ const produtos = [
   },
   {
     "id": 63,
-    "image": "assets/img/produto_063.jpg",
+    "image": "produto_063.jpg",
     "name": "Cooler de Uva - ",
     "price": "R$ 22,00",
     "unit": "unidade",
@@ -506,7 +506,7 @@ const produtos = [
   },
   {
     "id": 64,
-    "image": "assets/img/produto_064.jpg",
+    "image": "produto_064.jpg",
     "name": "Vinho Demi Seco Branco - Quinta Morães",
     "price": "R$ 27,00",
     "unit": "unidade",
@@ -514,7 +514,7 @@ const produtos = [
   },
   {
     "id": 65,
-    "image": "assets/img/produto_065.jpg",
+    "image": "produto_065.jpg",
     "name": "Geleia de Uva - Tatitania",
     "price": "R$ 17,00",
     "unit": "unidade",
@@ -522,7 +522,7 @@ const produtos = [
   },
   {
     "id": 66,
-    "image": "assets/img/produto_066.jpg",
+    "image": "produto_066.jpg",
     "name": "Café Puro Superior - Lozano - 500g",
     "price": "R$ 36,00",
     "unit": "unidade",
@@ -530,7 +530,7 @@ const produtos = [
   },
   {
     "id": 67,
-    "image": "assets/img/produto_067.jpg",
+    "image": "produto_067.jpg",
     "name": "Café Puro Tradicional - Lozano - 500g",
     "price": "R$ 33,00",
     "unit": "unidade",
@@ -538,7 +538,7 @@ const produtos = [
   },
   {
     "id": 68,
-    "image": "assets/img/produto_068.jpg",
+    "image": "produto_068.jpg",
     "name": "Goaiba Pastosa Nha Nair - 400g",
     "price": "R$ 16,00",
     "unit": "unidade",
@@ -546,7 +546,7 @@ const produtos = [
   },
   {
     "id": 69,
-    "image": "assets/img/produto_069.jpg",
+    "image": "produto_069.jpg",
     "name": "Café Puro em Grãos - Lozano - 500g",
     "price": "R$ 43,00",
     "unit": "unidade",
@@ -554,7 +554,7 @@ const produtos = [
   },
   {
     "id": 70,
-    "image": "assets/img/produto_070.jpg",
+    "image": "produto_070.jpg",
     "name": "Vinho Suave Bordo - Xv de Novembro ",
     "price": "R$ 26,00",
     "unit": "unidade",
@@ -562,7 +562,7 @@ const produtos = [
   },
   {
     "id": 71,
-    "image": "assets/img/produto_071.jpg",
+    "image": "produto_071.jpg",
     "name": "Dode de Leite Puro - Tatitania - 680g",
     "price": "R$ 32,00",
     "unit": "unidade",
@@ -570,7 +570,7 @@ const produtos = [
   },
   {
     "id": 72,
-    "image": "assets/img/produto_072.jpg",
+    "image": "produto_072.jpg",
     "name": "Cocada Cremosa - Tatitania - 680g",
     "price": "R$32,00",
     "unit": "unidade",
@@ -578,7 +578,7 @@ const produtos = [
   },
   {
     "id": 73,
-    "image": "assets/img/produto_073.jpg",
+    "image": "produto_073.jpg",
     "name": "Pêssego em Caldas",
     "price": "R$20,00",
     "unit": "unidade",
@@ -586,7 +586,7 @@ const produtos = [
   },
   {
     "id": 74,
-    "image": "assets/img/produto_074.jpg",
+    "image": "produto_074.jpg",
     "name": "Doce de Leite com Ameixa",
     "price": "R$ 32,00",
     "unit": "unidade",
@@ -594,7 +594,7 @@ const produtos = [
   },
   {
     "id": 75,
-    "image": "assets/img/produto_075.jpg",
+    "image": "produto_075.jpg",
     "name": "Molho de Pimenta",
     "price": "R$ 10,00",
     "unit": "unidade",
@@ -602,7 +602,7 @@ const produtos = [
   },
   {
     "id": 76,
-    "image": "assets/img/produto_076.jpg",
+    "image": "produto_076.jpg",
     "name": "Ambrosia - Tatitania - 680g",
     "price": "R$ 32,00",
     "unit": "unidade",
@@ -610,7 +610,7 @@ const produtos = [
   },
   {
     "id": 77,
-    "image": "assets/img/produto_077.jpg",
+    "image": "produto_077.jpg",
     "name": "Pé de Moleque Nha Nair - 300g",
     "price": "R$ 16,00",
     "unit": "unidade",
@@ -618,7 +618,7 @@ const produtos = [
   },
   {
     "id": 78,
-    "image": "assets/img/produto_078.jpg",
+    "image": "produto_078.jpg",
     "name": "Bananinha Nha Nair - 300g",
     "price": "R$ 16,00",
     "unit": "unidade",
@@ -626,7 +626,7 @@ const produtos = [
   },
   {
     "id": 79,
-    "image": "assets/img/produto_079.jpg",
+    "image": "produto_079.jpg",
     "name": "Dode de Leite Puro - Nha Nair - 300g",
     "price": "R$ 16,00",
     "unit": "unidade",
@@ -634,7 +634,7 @@ const produtos = [
   },
   {
     "id": 80,
-    "image": "assets/img/produto_080.jpg",
+    "image": "produto_080.jpg",
     "name": "Cocada Queimada - Nha Nair - 300g",
     "price": "R$ 16,00",
     "unit": "unidade",
@@ -642,7 +642,7 @@ const produtos = [
   },
   {
     "id": 81,
-    "image": "assets/img/produto_081.jpg",
+    "image": "produto_081.jpg",
     "name": "Cocada Branca - Nha Nair - 300g",
     "price": "R$ 16,00",
     "unit": "unidade",
@@ -650,7 +650,7 @@ const produtos = [
   },
   {
     "id": 82,
-    "image": "assets/img/produto_082.jpg",
+    "image": "produto_082.jpg",
     "name": "Cocada Branca - Capela 400g",
     "price": "R$ 21,90",
     "unit": "unidade",
@@ -658,7 +658,7 @@ const produtos = [
   },
   {
     "id": 83,
-    "image": "assets/img/produto_083.jpg",
+    "image": "produto_083.jpg",
     "name": "Molho de Pimenta",
     "price": "R$ 10,00",
     "unit": "unidade",
@@ -666,7 +666,7 @@ const produtos = [
   },
   {
     "id": 84,
-    "image": "assets/img/produto_084.jpg",
+    "image": "produto_084.jpg",
     "name": "Doce de Leite com Nozes - Capela 400g",
     "price": "R$ 21,90",
     "unit": "unidade",
@@ -674,7 +674,7 @@ const produtos = [
   },
   {
     "id": 85,
-    "image": "assets/img/produto_085.jpg",
+    "image": "produto_085.jpg",
     "name": "Dode de Leite Puro - Capela 400g",
     "price": "R$ 21,90",
     "unit": "unidade",
@@ -682,7 +682,7 @@ const produtos = [
   },
   {
     "id": 86,
-    "image": "assets/img/produto_086.jpg",
+    "image": "produto_086.jpg",
     "name": "Bananinha Cristalizada Lopes - 200g",
     "price": "R$ 6,00",
     "unit": "unidade",
@@ -690,7 +690,7 @@ const produtos = [
   },
   {
     "id": 87,
-    "image": "assets/img/produto_087.jpg",
+    "image": "produto_087.jpg",
     "name": "Paçoca em Cubos na Barra",
     "price": "R$ 16,0",
     "unit": "unidade",
@@ -698,7 +698,7 @@ const produtos = [
   },
   {
     "id": 88,
-    "image": "assets/img/produto_088.jpg",
+    "image": "produto_088.jpg",
     "name": "Biscoito recheado com Goiaba",
     "price": "R$ 10,00",
     "unit": "unidade",
@@ -706,7 +706,7 @@ const produtos = [
   },
   {
     "id": 89,
-    "image": "assets/img/produto_089.jpg",
+    "image": "produto_089.jpg",
     "name": "Doce de leite com Coco e Limão  - Capela 400g",
     "price": "R$ 21,90",
     "unit": "unidade",
@@ -714,7 +714,7 @@ const produtos = [
   },
   {
     "id": 90,
-    "image": "assets/img/produto_090.jpg",
+    "image": "produto_090.jpg",
     "name": "Biscoito Romeu e Julieta",
     "price": "R$ 10,00",
     "unit": "unidade",
@@ -722,7 +722,7 @@ const produtos = [
   },
   {
     "id": 91,
-    "image": "assets/img/produto_091.jpg",
+    "image": "produto_091.jpg",
     "name": "Biscoito Sequilho",
     "price": "R$ 10,00",
     "unit": "unidade",
@@ -730,7 +730,7 @@ const produtos = [
   },
   {
     "id": 92,
-    "image": "assets/img/produto_092.jpg",
+    "image": "produto_092.jpg",
     "name": "Biscoito Beliscão",
     "price": "R$ 10,00",
     "unit": "unidade",
@@ -738,7 +738,7 @@ const produtos = [
   },
   {
     "id": 93,
-    "image": "assets/img/produto_093.jpg",
+    "image": "produto_093.jpg",
     "name": "Biscoito Natinha",
     "price": "R$ 10,00",
     "unit": "unidade",
@@ -746,7 +746,7 @@ const produtos = [
   },
   {
     "id": 94,
-    "image": "assets/img/produto_094.jpg",
+    "image": "produto_094.jpg",
     "name": "Goiaba Cascão de Muzambinho",
     "price": "R$ 15,00",
     "unit": "unidade",
@@ -754,7 +754,7 @@ const produtos = [
   },
   {
     "id": 95,
-    "image": "assets/img/produto_095.jpg",
+    "image": "produto_095.jpg",
     "name": "Biscoito Casadinho",
     "price": "R$ 10,00",
     "unit": "unidade",
@@ -762,7 +762,7 @@ const produtos = [
   },
   {
     "id": 96,
-    "image": "assets/img/produto_096.jpg",
+    "image": "produto_096.jpg",
     "name": "Bananinha Zero Açucar com Ameixa",
     "price": "R$ 14,00",
     "unit": "unidade",
@@ -770,7 +770,7 @@ const produtos = [
   },
   {
     "id": 97,
-    "image": "assets/img/produto_097.jpg",
+    "image": "produto_097.jpg",
     "name": "Bananinha Zero Açucar com Castanha do Pará",
     "price": "R$ 14,00",
     "unit": "unidade",
@@ -778,7 +778,7 @@ const produtos = [
   },
   {
     "id": 98,
-    "image": "assets/img/produto_098.jpg",
+    "image": "produto_098.jpg",
     "name": "Bananinha Zero Açucar com Uvas Passas",
     "price": "R$ 14,00",
     "unit": "unidade",
@@ -786,7 +786,7 @@ const produtos = [
   },
   {
     "id": 99,
-    "image": "assets/img/produto_099.jpg",
+    "image": "produto_099.jpg",
     "name": "Bananinha Zero Açucar com Caju",
     "price": "R$ 14,00",
     "unit": "unidade",
@@ -794,7 +794,7 @@ const produtos = [
   },
   {
     "id": 100,
-    "image": "assets/img/produto_100.jpg",
+    "image": "produto_100.jpg",
     "name": "Biscoito Polvilho",
     "price": "R$ 7,00",
     "unit": "unidade",
@@ -802,7 +802,7 @@ const produtos = [
   },
   {
     "id": 101,
-    "image": "assets/img/produto_101.jpg",
+    "image": "produto_101.jpg",
     "name": "Salame italiano",
     "price": "R$ 25,00",
     "unit": "unidade",
@@ -810,7 +810,7 @@ const produtos = [
   },
   {
     "id": 102,
-    "image": "assets/img/produto_102.jpg",
+    "image": "produto_102.jpg",
     "name": "Salame Defumado",
     "price": "R$ 15,00",
     "unit": "unidade",
@@ -818,7 +818,7 @@ const produtos = [
   },
   {
     "id": 103,
-    "image": "assets/img/produto_103.jpg",
+    "image": "produto_103.jpg",
     "name": "Salame Defumado com Pimenta Biquinho",
     "price": "R$ 15,00",
     "unit": "unidade",
@@ -826,7 +826,7 @@ const produtos = [
   },
   {
     "id": 104,
-    "image": "assets/img/produto_104.jpg",
+    "image": "produto_104.jpg",
     "name": "Salame Defumado com Azeitona",
     "price": "R$ 15,00",
     "unit": "unidade",
@@ -834,7 +834,7 @@ const produtos = [
   },
   {
     "id": 105,
-    "image": "assets/img/produto_105.jpg",
+    "image": "produto_105.jpg",
     "name": "Salame Defumado com Limao Siciliano",
     "price": "R$ 15,00",
     "unit": "unidade",
@@ -842,7 +842,7 @@ const produtos = [
   },
   {
     "id": 106,
-    "image": "assets/img/produto_106.jpg",
+    "image": "produto_106.jpg",
     "name": "Salame Defumado com Queijo Provolone",
     "price": "R$ 15,00",
     "unit": "unidade",
@@ -850,7 +850,7 @@ const produtos = [
   },
   {
     "id": 107,
-    "image": "assets/img/produto_107.jpg",
+    "image": "produto_107.jpg",
     "name": "Bananinha Zero Açucar Tradicional",
     "price": "R$ 14,00",
     "unit": "unidade",
@@ -858,7 +858,7 @@ const produtos = [
   },
   {
     "id": 108,
-    "image": "assets/img/produto_108.jpg",
+    "image": "produto_108.jpg",
     "name": "Salame Defumado com Bacon",
     "price": "R$ 15,00",
     "unit": "unidade",
