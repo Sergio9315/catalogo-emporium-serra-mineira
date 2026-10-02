@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Catálogo digital - Emporium Serra Mineira">
+  <title>Catálogo | Emporium Serra Mineira</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar no-print">
+    <div class="brand">EMPORIUM <span>SERRA MINEIRA</span></div>
+    <div class="actions">
+      <input id="search" type="search" placeholder="Buscar produto..." aria-label="Buscar produto">
+      <button id="printBtn">Imprimir / Salvar PDF</button>
+    </div>
+  </header>
+
+  <main id="catalogo">
+    <section class="cover">
+      <div class="mountains"></div>
+      <div class="cover-content">
+        <p class="eyebrow">SABORES DE MINAS</p>
+        <h1>Emporium<br><span>Serra Mineira</span></h1>
+        <p class="subtitle">Produtos selecionados com o sabor e a tradição de Minas Gerais.</p>
+        <div class="cover-line"></div>
+        <p class="small">CATÁLOGO DIGITAL</p>
+        <p class="small">Faça seu Pedido pelo WhatsApp: (11) 96778-7882</p>
+      </div>
+    </section>
+
+    <section class="intro page">
+      <div class="section-title">
+        <p class="eyebrow">BEM-VINDO</p>
+        <h2>Sabores que contam histórias</h2>
+        <p>Confira nossa seleção de produtos. 
+      </div>
+    </section>
+
+    <section class="products-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">NOSSA SELEÇÃO</p>
+          <h2>Produtos</h2>
+        </div>
+        <span id="contador"></span>
+      </div>
+      <div id="products" class="product-grid"></div>
+      <p id="empty" class="empty hidden">Nenhum produto encontrado.</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div><strong>EMPORIUM SERRA MINEIRA</strong></div>
+    <div>Consulte disponibilidade e preços no atendimento.</div>
+  </footer>
+
+  <script src="js/produtos.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
